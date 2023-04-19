@@ -1,0 +1,5 @@
+CREATE TABLE test
+(
+    NAME         VARCHAR(20),
+    DISCORD_NAME VARCHAR(20)
+);
